@@ -95,14 +95,14 @@ Example:
 When the program starts, enter eight integers.<br>
 ⚠️ Important: Press Enter after each complete number, not after each digit.<br>
 **Example:**
-11..
-8..
-2..
-17..
-6..
-4..
-3..
-21..
+11<br>
+8<br>
+2<br>
+17<br>
+6<br>
+4<br>
+3<br>
+21<br>
 After the eighth value is entered, the program automatically:
 1.	Stores the numbers in memory.
 2.	Sorts them using Bubble Sort.
