@@ -1,7 +1,7 @@
-CIS-11 Bubble Sort Sorcerers (LC-3 Assembly)
-A Bubble Sort Algorithm built using LC-3 Assembly language that accepts 8 integers inputted by the user, sorting them in ascending order, and displaying sorted results. 
-Live Demo
-Program is run using LC-3 Simulator.
+CIS-11 Bubble Sort Sorcerers (LC-3 Assembly)<br>
+A Bubble Sort Algorithm built using LC-3 Assembly language that accepts 8 integers inputted by the user, sorting them in ascending order, and displaying sorted results.<br>
+Live Demo<br>
+Program is run using LC-3 Simulator.<br>
 ________________________________________
 <a id="table-of-contents"></a>
 ## Table of Contents <br>
@@ -16,8 +16,8 @@ ________________________________________
 •	Acknowledgements<br>
 •	Contact<br>
 ________________________________________
-General Information
-This project was developed for CIS 11 as a team assignment focused on implementing Bubble Sort in LC-3 Assembly Language.
+General Information<br>
+This project was developed for CIS 11 as a team assignment focused on implementing Bubble Sort in LC-3 Assembly Language.<br>
 Problem Solved
 Efficiently sorting data is a common requirement. This helps to demonstrate how a sorting algorithm can be implemented in assembly.
 Purpose
