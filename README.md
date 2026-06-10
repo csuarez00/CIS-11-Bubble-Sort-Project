@@ -70,9 +70,7 @@ This project was completed to strengthen our understanding of assembly language 
 ---
 
 ## Screenshots
-Add screenshots of your LC-3 Simulator execution here.
-Example:
-![Program Execution](./img/screenshot.png)
+<img width="613" height="497" alt="project_output_cis11" src="https://github.com/user-attachments/assets/eeae438b-cb40-49a5-bca5-5b1b36d7dd7a" />
 
 ---
 
