@@ -6,12 +6,12 @@ ________________________________________
 <a id="table-of-contents"></a>
 ## Table of Contents </br>
 •	General Information</br>
-•	Technologies Used
-•	Features
-•	Screenshots
-•	Setup
-•	Usage
-•	Project Status
+•	Technologies Used</br>
+•	Features</br>
+•	Screenshots<br>
+•	Setup</br>
+•	Usage<br>
+•	Project Status<br>
 •	Room for Improvement
 •	Acknowledgements
 •	Contact
