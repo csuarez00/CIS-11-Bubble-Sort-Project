@@ -94,7 +94,7 @@ Example:
 ## Usage
 When the program starts, enter eight integers.<br>
 ⚠️ Important: Press Enter after each complete number, not after each digit.<br>
-**Example:**
+**Example:**<br>
 11<br>
 8<br>
 2<br>
