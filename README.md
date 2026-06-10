@@ -1,7 +1,7 @@
 # CIS-11 Bubble Sort Sorcerers (LC-3 Assembly)
 A Bubble Sort Algorithm built using LC-3 Assembly language that accepts 8 integers inputted by the user, sorting them in ascending order, and displaying sorted results.
 ---
-________________________________________
+
 <a id="table-of-contents"></a>
 ## Table of Contents
 -	[General Information](#general-information)
@@ -17,7 +17,7 @@ ________________________________________
 -	[Contact](#contact)
 
 ---
-________________________________________
+
 ## General Information
 This project was developed for CIS 11 as a team assignment focused on implementing Bubble Sort in LC-3 Assembly Language.
 ## Problem Solved
@@ -32,12 +32,12 @@ Efficiently sorting data is a common requirement. This helps to demonstrate how 
 This project was completed to strengthen our understanding of assembly language programming and algorithm implementation using the LC-3 instruction set.
 
 ---
-________________________________________
+
 ## Technologies Used
 -	LC-3 Assembly Language
 -	LC-3 Simulator
 -	Bubble Sort Algorithm
-________________________________________
+
 ## Features
 -	Accepts 8 user-entered integers.
 -	Supports multi-digit numbers from 0–100.
@@ -68,14 +68,14 @@ ________________________________________
 21
 
 ---
-________________________________________
+
 ## Screenshots
 Add screenshots of your LC-3 Simulator execution here.
 Example:
 ![Program Execution](./img/screenshot.png)
 
 ---
-________________________________________
+
 ## Setup
 ### Requirements
 -	LC-3 Simulator
@@ -90,7 +90,7 @@ ________________________________________
 7.	Run the program.
 
 ---
-________________________________________
+
 ## Usage
 When the program starts, enter eight integers.
 ⚠️ Important: Press Enter after each complete number, not after each digit.
@@ -125,13 +125,13 @@ PRINT_NUM Subroutine
 -	Converts binary integers to ASCII.
 -	Handles values from 0–100.
 -	Displays numbers to the console.
-________________________________________
+
 ## Project Status
 **Status:** Complete
 This program successfully reads, sorts, and displays eight integers using LC-3 Assembly.
 
 ---
-________________________________________
+
 ## Ideas for Improvement
 ### Improvements
 -	Add input validation for values outside the restricted range.
@@ -144,7 +144,7 @@ ________________________________________
 -	Display the array before and after sorting.
 
 ---
-________________________________________
+
 ## Acknowledgements
 -	Developed for CIS -11.
 -	Inspired by classic Bubble Sort implementations.
@@ -152,14 +152,14 @@ ________________________________________
 -	Built using the LC-3 Assembly.
 
 ---
-________________________________________
+
 ## Team Members
 -	Bryant Martinez Fossati
 -	Ryland Tolentino
 -	Cassandra Suarez
 
 ---
-________________________________________
+
 ## Contact
 Created by the **Bubble Sort Sorcerers** Team.
 [Back to Top](#table-of-contents)
