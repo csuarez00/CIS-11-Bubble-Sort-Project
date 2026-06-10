@@ -92,17 +92,17 @@ Example:
 ---
 
 ## Usage
-When the program starts, enter eight integers.
-⚠️ Important: Press Enter after each complete number, not after each digit.
-Example:
-11
-8
-2
-17
-6
-4
-3
-21
+When the program starts, enter eight integers.<br>
+⚠️ Important: Press Enter after each complete number, not after each digit.<br>
+**Example:**
+11..
+8..
+2..
+17..
+6..
+4..
+3..
+21..
 After the eighth value is entered, the program automatically:
 1.	Stores the numbers in memory.
 2.	Sorts them using Bubble Sort.
