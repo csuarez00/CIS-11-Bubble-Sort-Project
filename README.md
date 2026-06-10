@@ -4,17 +4,17 @@ Live Demo
 Program is run using LC-3 Simulator.
 ________________________________________
 <a id="table-of-contents"></a>
-## Table of Contents </br>
-•	General Information</br>
-•	Technologies Used</br>
-•	Features</br>
+## Table of Contents <br>
+•	General Information<br>
+•	Technologies Used<br>
+•	Features<br>
 •	Screenshots<br>
-•	Setup</br>
+•	Setup<br>
 •	Usage<br>
 •	Project Status<br>
-•	Room for Improvement
-•	Acknowledgements
-•	Contact
+•	Room for Improvement<br>
+•	Acknowledgements<br>
+•	Contact<br>
 ________________________________________
 General Information
 This project was developed for CIS 11 as a team assignment focused on implementing Bubble Sort in LC-3 Assembly Language.
